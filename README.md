@@ -10,3 +10,10 @@
 CNode：Node.js专业中文社区:<https://cnodejs.org/>
 Node.js的学习资源、教程和工具:<http://blog.jobbole.com/75084/>
 Nodejs学习路线图:<http://blog.fens.me/nodejs-roadmap/>
+
+
+---
+
+为什么要用 Nodejs
+<http://www.jianshu.com/p/59e59acde382>
+
